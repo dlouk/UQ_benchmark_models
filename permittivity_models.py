@@ -5,6 +5,11 @@ Created on Tue May 22 15:00:30 2018
 @author: D. Loukrezis
 
 Permmitivity models for dielectric materials.
+Uncertain parameters are typically modelled as uniform random variables.
+The distribution ranges are given as: 
+[nominal value - \alpha*(nominal value), nominal value + \alpha*(nominal value)].
+Since relatively large uncertainties arise in these models, the value of \alpha 
+is usually in the range [10%, 30%].
 """
 
 import numpy as np
