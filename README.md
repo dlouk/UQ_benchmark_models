@@ -26,7 +26,7 @@ title  = "{Approximation and Uncertainty Quantification of Stochastic Systems
 		  Interpolation}",
 journal = {arXiv e-prints},
 year    = "2019",
-eid     = {arXiv:1904.07709},
+eid     = {arXiv:1904.07709}
 }
 
 @phdthesis{loukrezis2019adaptive,
@@ -35,5 +35,5 @@ title  = {Adaptive Approximations for High-DImensional Uncertainty
           Quantification in Stochastic Parametric Electromagnetic Field 
 		  Simulations}, 
 school = {TU Darmstadt},
-year   = {2019}		  
+year   = {2019}
 }
