@@ -31,7 +31,7 @@ eid     = {arXiv:1904.07709}
 
 @phdthesis{loukrezis2019adaptive,
 author = {Dimitrios Loukrezis},
-title  = {Adaptive Approximations for High-DImensional Uncertainty 
+title  = {Adaptive Approximations for High-Dimensional Uncertainty 
           Quantification in Stochastic Parametric Electromagnetic Field 
 		  Simulations}, 
 school = {TU Darmstadt},
